@@ -2,7 +2,7 @@ import { GetServerSideProps } from 'next';
 import Head from 'next/head';
 
 import { stripe } from '../services/stripe';
-import { SubscribeButton } from '../components/SubscribeButton/inde';
+import { SubscribeButton } from '../components/SubscribeButton/index';
 
 import styles from './home.module.scss';
 
@@ -22,7 +22,7 @@ export default function Home({ product }: HomeProps) {
       
       <main className={styles.contentContainer}> 
         <section className={styles.hero}>
-          <span>👏Hey, welcome</span>
+          <span>👏Hey, Welcome</span>
           <h1>News about the <span>React</span> world.</h1>
           <p>
             Get access to all the publications <br />
