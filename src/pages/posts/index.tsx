@@ -56,6 +56,7 @@ export const getStaticProps: GetStaticProps = async () => {
             title: RichText.asText(post.data.title),
             //encontrar o primeiro paragrafo do post
             excerpt: post.data.content.find(content => content.type === 'paragraph')?.text ?? '',
+            //pegando a data no formato CERTO
             updatedAt: new Date(post.last_publication_date).toLocaleDateString('pt-BR', {
                 day: '2-digit',
                 month: 'long',
