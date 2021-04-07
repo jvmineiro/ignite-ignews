@@ -5,7 +5,7 @@
 <P>O objetivo da aplicação é apenas obter conhecimento à medida que avançamos no bootcamp. A aplicação foi desenvolvida durante as aulas do bootcamp e agrega conhecimentos diversos, dentre eles os fundamentos do NextJS, estruturação de um back-end dentro do front-end e o front-end JAMStack.</p>
 
 <h2>🎯 Conhecimentos agregados</h2>
----
+
 - [x]  Páginas estáticas no NextJS.
 - [x]  Geração de sites estáticos dinâmicos.
 - [x]  Revalidação de páginas estáticas para atualização de conteúdo.
