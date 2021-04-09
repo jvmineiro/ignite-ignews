@@ -1,5 +1,8 @@
 <h1 align="center">Ig.news 📰</h1>
----
+
+<p align="center">
+  <img alt="ig.news" src="public/IGNEWS.gif" width="60%">
+</p>
 
 <p>Ignews é uma aplicação front-end desenvolvida em NextJS com TypeScript durante o módulo Chapter III do Ignite, bootcamp intensivo da Rocketseat, na trilha de ReactJS.</p>
 <P>O objetivo da aplicação é apenas obter conhecimento à medida que avançamos no bootcamp. A aplicação foi desenvolvida durante as aulas do bootcamp e agrega conhecimentos diversos, dentre eles os fundamentos do NextJS, estruturação de um back-end dentro do front-end e o front-end JAMStack.</p>
