@@ -42,7 +42,7 @@ yarn dev
 
 <h3>Desenvolvido com 💖 por João Vitor Mineiro durante bootcamp Ignite da Rocketseat 🚀 </h3>
 
-* [Linkedin](https://www.linkedin.com/in/joao-vitor-souza-dos-reis-mineiro-72511915b/)
+* [Linkedin](https://www.linkedin.com/in/jvmineiro/)
 
   
 <strong align="center">Se gostou, deixe sua ⭐️</strong>
